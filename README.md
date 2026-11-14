@@ -212,4 +212,4 @@ Double Commander is the full free version with all features and updates included
 Download Double Commander today and take your file management to the next level!
 
 ---
-**Last updated:** 2026-11-13 21:44:29 UTC
+**Last updated:** 2026-11-14 01:54:57 UTC
